@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nama": "Espresso",
+    "harga": 18000,
+    "deskripsi": "Kopi hitam pekat dengan rasa yang kuat.",
+    "gambar": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04"
+  },
+  {
+    "id": 2,
+    "nama": "Cappuccino",
+    "harga": 25000,
+    "deskripsi": "Paduan espresso, susu cair, dan foam tebal.",
+    "gambar": "https://images.unsplash.com/photo-1534778101976-62847782c213"
+  }
+]
